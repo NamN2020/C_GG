@@ -6,6 +6,8 @@
 
     PUsh
     PusH
+
+    Do i get another bug?
 */
 #include <stdio.h>
 
