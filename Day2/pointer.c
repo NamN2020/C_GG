@@ -1,7 +1,11 @@
 // 2/8/24 
 /*
     Today covered sections worth noting: 
-        j
+    
+    First Git PUSH
+
+    PUsh
+    PusH
 */
 #include <stdio.h>
 
