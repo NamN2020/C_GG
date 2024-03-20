@@ -52,7 +52,3 @@ void replace_char(char* str, char oldChar, char newChar) {
             str[i] = newChar;
         }
     }
-}
-
-
-//? THIS IS A BRANCH
