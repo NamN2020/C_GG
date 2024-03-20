@@ -53,3 +53,6 @@ void replace_char(char* str, char oldChar, char newChar) {
         }
     }
 }
+
+
+//NEW CHANGES FOR GIT TESTING
