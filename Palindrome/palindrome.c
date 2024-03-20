@@ -52,9 +52,3 @@ void replace_char(char* str, char oldChar, char newChar) {
             str[i] = newChar;
         }
     }
-<<<<<<< HEAD
-}
-
-// last test
-=======
->>>>>>> 9615f692ee69a118d23a62a4f6202b8a3dda2a5f
