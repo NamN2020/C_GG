@@ -3,7 +3,7 @@
 #include<ctype.h>
 #include<string.h>
 
-void strLength(char* str);
+char* strLength(char* str);
 void replace_char(char* str, char oldChar, char newChar);
 
 int main()
@@ -18,17 +18,12 @@ int main()
     //printf("This is num: %d\nThis is size of int pointer: %zu\nThis is the pointer: %p\n", num, sizeof(pointer),pointer);
     //printf("Test1: %s\n", test1);
     strLength(test2);
-    printf("strLength Test: %s\n", test2);
-
-    char str[] = "ooHeooololoo, Woorld!";
-    printf("Before: %s\n", str);
-    replace_char(str, 'o', '0');
-    //str[2] = 'Z';
-    printf("After: %s\n", str);
+    printf("strLength Test: %s\n", test2); 
+    
     return 0;
 }
 
-void strLength(char* str)
+char* strLength(char* str)
 {
     char* result = str;  
     do
