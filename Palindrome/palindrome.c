@@ -7,8 +7,7 @@ char* strLength(char* str);
 void replace_char(char* str, char oldChar, char newChar);
 
 int main()
-{
-    
+{   
     char test1[] = "A man, a plan, a canal: Panama";    
     char test2[] = "         r  a c   e  car";
     
@@ -57,3 +56,5 @@ void replace_char(char* str, char oldChar, char newChar) {
 //Desktop Commit
 
 //Finally Synced Machines
+
+//Command Line Commit
