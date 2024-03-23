@@ -58,3 +58,5 @@ void replace_char(char* str, char oldChar, char newChar) {
 //Finally Synced Machines
 
 //Command Line Commit
+
+// WSL terminal
